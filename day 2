@@ -2,7 +2,8 @@ editor: programer creates programe and stores it on the disk .
 preprocessor : process the programe and codes it .
 compiler : it creates the object code and stores it on the disk .
 linker : it links the object code and creats the excutable file .
-lo
+loader : it puts the programe in memory .
+cpu: takes the instruction and perform accordingly.
 
 
 
