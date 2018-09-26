@@ -4,6 +4,32 @@ compiler : it creates the object code and stores it on the disk .
 linker : it links the object code and creats the excutable file .
 loader : it puts the programe in memory .
 cpu: takes the instruction and perform accordingly.
+# include <stdio.h>
+int main()
+{
+    int integer1;
+    int integer2;
+    int sum;
+
+    printf("enter first integer\n");
+    scanf("%d",&integer1);
+
+    printf("enter second integer\n");
+    scanf("%d",&integer2);
+
+    sum=integer1+integer2;
+
+    printf("sum is %d\n",sum);
+
+    return 8;
+}
+what is a variable ?
+variable is the name given to the storage area  which stores our programe and manpulate.
+what are the types of variables?
+they are int, char,float,void.
+what are the basic types of variables in c ? 
+they are of two types i.e global variable and local variable
+
 
 
 
