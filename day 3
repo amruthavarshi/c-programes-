@@ -1,13 +1,18 @@
 the most trivial programs can define additional functions.
 what is trivial function in c ?
 it is a simple programe .
+what is function declaration ?
 A function declaration tells the compiler about a function's name
  strcat() to concatenate two strings?
 what is strcat?
 strcat is defined as the thing which allows the memory block to pass from one part to another 
-what is concatenateit ?
+what is concatenate?
 it is operation of joining two strings
-what is string mean in c ?
+what is string mean in c  programing ?
+array of character is called strings .
+what is array in c language ?
+Array is a collection of data which holds fixed no of values of the same type.
+
 
 
 
