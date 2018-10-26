@@ -13,24 +13,3 @@ int main ()
     
     return 0; 
 }
-
-WRITE A FUNCTION TO COMPUTE THE AREA OF THE TRIANGLE 
-
-
-#include <stdio.h>
-#include  <math.h>
-int main()
-{
-    int s,a,b,c,area;
-printf("enter the values of a");
-scanf("%d",&a);
-printf("enter the values of b");
-scanf("%d",&b);
-printf("enter the values of c");
-scanf("%d",&c);
-s=(a+b+c)/2;
-area=sqrt(s*(s-a)*(s-b)*(s-c));
-printf("enter the values of triangle=%d\n",area);
-
-    return 0;
-}
