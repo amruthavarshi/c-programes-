@@ -25,8 +25,8 @@
   why is */ is used in c programing ? 
   a coment starts with that 
   what is coment ?
-  it is statement that can be understood properly.
-  why is } is used in c programing?
+  it is statement that can be understood properly
+  
   
   
   
