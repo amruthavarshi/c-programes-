@@ -6,7 +6,7 @@ int main ()
 
     printf("enter the value of base \n");
     scanf ("%d",&b);
-    printf ("enter the valuesd of height \n");
+    printf ("enter the value of height \n");
     scanf("%d",&h);
     z = 0.5*b*h; 
     printf("%f",z);
